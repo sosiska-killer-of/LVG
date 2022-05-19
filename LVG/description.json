@@ -1,0 +1,19 @@
+{
+   "custom_icons" : false,
+   "dependencies" : [
+      {
+         "fileId" : 896541375,
+         "localId" : "47ddf902-b0b8-41c7-8f0c-aff1e61e4309"
+      },
+      {
+         "fileId" : 2806686104,
+         "localId" : "5136b3ae-5ffb-44c8-8557-5e204352f8d2"
+      }
+   ],
+   "description" : "THIS MOD IS IN WIP!!!\n\nVER 1.07\n\nfeatures:\n\ndr pixel plays parts \n{link: youtube.com/watch?v=W7HM_YdsWn4}\n\ndr pixel plays portal gun \n{link: youtube.com/watch?v=r5MSGtybbzI}\n\ncustom LVG gui block {WIP}\n(bearly does anything yet)\n\nthe modpack beta by durf\n{link: https://www.youtube.com/c/Durf}\n\nin the making: add the modpack\nand work on the LVG gui",
+   "fileId" : 2808011208,
+   "localId" : "7843e372-bc33-4e5a-8fe3-b2e25e5982f6",
+   "name" : "LVG",
+   "type" : "Custom Game",
+   "version" : 0
+}

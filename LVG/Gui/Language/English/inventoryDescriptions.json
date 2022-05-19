@@ -1,0 +1,30 @@
+{
+   "3edd591b-8e71-4557-841e-d25891150cab" : {
+      "title" : "Gearbox",
+      "description" : "Place two bearings on it and connect them. Spinning one bearing will rotate the other as well."
+   },
+   "af6fa3e7-3032-44f8-b594-8cf7c8bbfc95" : {
+    "title" : "Battery Generator",
+    "description" : "Can be used as a battery container. Connect a bearing to it and spin it to start generating batteries."
+   },
+   "7c2d52e4-c908-473c-a1ff-593bc1519ccd" : {
+      "title" : "DPP Bearing",
+      "description" : "A bearing, but with more swag."
+   },
+   "4b7f418c-e374-4bc2-80c3-974e29e6c9c4": {
+    "title": "LVG",
+    "description": "very cool ui"
+  },
+    "da1b9047-30eb-44f5-8fba-79b42f828ad9":{
+        "title": "Portal Gun",
+        "description": "Create portals with it. Everything that enters a portal gets teleported. Press R to switch between the two portals."
+  },
+    "ef4a325a-0b5f-4712-b816-281e7fd88ddf": {
+    "title": "Loose World Cleaner",
+    "description": "Works in a similar way to the normal World Cleaner, but it destroys only creations that are loose (not connected to the ground or on the lift)."
+  },
+  "c2db949b-1b00-498b-baae-e4f82e231030": {
+    "title": "Attached World Cleaner",
+    "description": "Works in a similar way to the normal World Cleaner, but it destroys only creations that are NOT loose (connected to the ground or on the lift)."
+  }
+}

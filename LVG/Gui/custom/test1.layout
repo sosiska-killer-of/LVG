@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Canvas" skin="BackgroundEngineNoUpgrade" position="190 105 1490 860">
+        <Widget type="TextBox" skin="ActiveButton" position="370 10 754 210">
+            <Widget type="TextBox" skin="SMTextBox_NoBackground" position="5 45 744 124" name="title">
+                <Property key="FontHeight" value="65"/>
+                <Property key="TextShadow" value="true"/>
+                <Property key="TextColour" value="0.836257 0.661197 0.268972"/>
+                <Property key="TextShadowColour" value="0 0.660088 0.982456"/>
+                <Property key="FontName" value="ExportCreationName"/>
+                <Property key="Enabled" value="true"/>
+                <Property key="TextAlign" value="Center"/>
+                <Property key="Caption" value="LVG GUI"/>
+            </Widget>
+        </Widget>
+        <Widget type="Button" skin="SMButton" position="50 735 190 80" name="button2">
+            <Property key="Caption" value="player"/>
+            <Property key="FontName" value="ExportCreationName"/>
+            <Property key="FontHeight" value="50"/>
+        </Widget>
+        <Widget type="Button" skin="SMButton" position="255 735 185 80" name="button3">
+            <Property key="Caption" value="other"/>
+            <Property key="FontName" value="ExportCreationName"/>
+            <Property key="Enabled" value="true"/>
+            <Property key="FontHeight" value="50"/>
+        </Widget>
+        <Widget type="Button" skin="SMButton" position="1340 40 118 114" name="button1">
+            <Property key="FontName" value="ExportCreationName"/>
+            <Property key="FontHeight" value="30"/>
+            <Property key="StateSelected" value="false"/>
+            <Property key="ModeImage" value="false"/>
+            <Property key="Caption" value="debug"/>
+        </Widget>
+        <Widget type="ProgressBar" skin="SMLoadingBar" position="890 785 584 60">
+            <Property key="Range" value="100"/>
+            <Property key="RangePosition" value="10"/>
+        </Widget>
+        <Widget type="TextBox" skin="SMTextBox_NoBackground" position="1000 715 374 74">
+            <Property key="Caption" value="mod progress"/>
+            <Property key="FontName" value="ExportCreationName"/>
+            <Property key="FontHeight" value="50"/>
+            <Property key="TextAlign" value="Center"/>
+        </Widget>
+    </Widget>
+</MyGUI>

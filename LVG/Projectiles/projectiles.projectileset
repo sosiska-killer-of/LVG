@@ -1,0 +1,46 @@
+{
+    "projectiles": [
+        {
+            "uuid": "dd6011d9-560b-4041-8892-322f8d973bde",
+            "name": "portal1",
+			"mass": 0.005,
+			"audiomass": 1.0,
+			"radius": 0.10,
+			"friction": 0.0,
+			"spin": 3.0,
+			"mesh": "$GAME_DATA/Projectiles/Renderables/projectile_water.rend",
+			"effect": "WaterProjectile - Hit",
+			"attachedEffect": "Water - WaterProjectileTrail",
+			"effectmaterial": "Water",
+			"enableImpactEffect": false,
+			"onlyHitStatic": true,
+			"color": "ffffff",
+			"destruction":
+			{
+				"destructionLevels":[]
+			},
+			"enableGravity": false
+		},
+		{
+            "uuid": "61a91b8e-1c40-422e-bf76-db336c21e73e",
+            "name": "portal2",
+			"mass": 0.005,
+			"audiomass": 1.0,
+			"radius": 0.10,
+			"friction": 0.0,
+			"spin": 3.0,
+			"mesh": "$GAME_DATA/Projectiles/Renderables/projectile_chemical.rend",
+			"effect": "ChemicalProjectile - Hit",
+			"attachedEffect": "ChemicalProjectile - Attached",
+			"enableImpactEffect": false,
+			"effectmaterial": "Water",
+			"onlyHitStatic": true,
+			"color": "ffffff",
+			"destruction":
+			{
+				"destructionLevels":[]
+			},
+			"enableGravity": false
+		}
+    ]
+}

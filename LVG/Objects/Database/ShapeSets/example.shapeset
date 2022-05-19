@@ -1,0 +1,31 @@
+{
+	"partList": [
+		{
+			"uuid": "4b7f418c-e374-4bc2-80c3-974e29e6c9c4",
+			"name": "obj_interactive_logicgate",
+
+			"renderable": "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_logicgate.rend",
+			"color": "df7f01",
+			"box": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"scripted": {
+				"filename": "$CONTENT_DATA/Scripts/lvg_ib_1.lua",
+				"classname": "lvg_ib_1"
+			},
+			"rotationSet": "PropYZ",
+			"physicsMaterial": "Mechanical",
+			"ratings": {
+				"density": 2,
+				"durability": 3,
+				"friction": 5,
+				"buoyancy": 2
+			},
+			"flammable": false,
+			"stackSize": 10
+		}
+		
+	]
+}
